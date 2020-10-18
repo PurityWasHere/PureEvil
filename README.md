@@ -12,3 +12,5 @@ This project is designed for ease of use and quick deployment with low maintenan
 
 Early Alpha stages.
 
+We have information and a community in our discord!
+https://discord.gg/w54YUQd
