@@ -1,0 +1,5 @@
+aiohttp==3.3.2
+goodbyecaptcha==2.4.2
+pypresence==4.0.0
+colorama==0.4.3
+async_timeout==3.0.0
