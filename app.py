@@ -235,8 +235,4 @@ if __name__ == "__main__":
     ctypes.windll.kernel32.SetConsoleTitleW("PureEvil | Version: 0.1 | Running on:127.0.0.1:8080 |OCR ReCaptchaV2 Solver")
     clear()
     print(Fore.BLUE + splash)
-    client_id = '766994496473792513'  # Fake ID, put your real one here
-    RPC =  Presence(client_id,pipe=0)  # Initialize the client class
-    RPC.connect()
-    RPC.update(large_image = "bigimage",details="OCR RecaptchaV2 Solver", state="In Alpha Testing")  # Set the presence
     web.run_app(app, host="127.0.0.1", port=8080)
