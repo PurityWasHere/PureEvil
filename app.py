@@ -142,7 +142,7 @@ class TaskRerun(object):
 
 
 async def work(pageurl, loop):
-    proxy = 'mimicproxy.xyz:19999'
+    proxy = ''
     proxy_auth = None
     if proxy_username and proxy_password:
         proxy_auth = {"username": proxy_username,
