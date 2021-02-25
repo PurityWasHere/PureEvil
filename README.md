@@ -1,7 +1,7 @@
 # PureEvil
 A User Friendly RecapV2 Solver.
 
-A community maintained and handled OCR based RecapV2 Solver.
+A community maintained and handled Image Recognition based RecapV2 Solver.
 
 
 Forked and Modified from:
